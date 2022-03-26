@@ -1,0 +1,12 @@
+C:\Users\Paweł\source\repos\Lizard\Lizard\bin\Debug\net6.0\Lizard.deps.json
+C:\Users\Paweł\source\repos\Lizard\Lizard\bin\Debug\net6.0\Lizard.dll
+C:\Users\Paweł\source\repos\Lizard\Lizard\bin\Debug\net6.0\Lizard.pdb
+C:\Users\Paweł\source\repos\Lizard\Lizard\obj\Debug\net6.0\Lizard.csproj.AssemblyReference.cache
+C:\Users\Paweł\source\repos\Lizard\Lizard\obj\Debug\net6.0\Lizard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paweł\source\repos\Lizard\Lizard\obj\Debug\net6.0\Lizard.AssemblyInfoInputs.cache
+C:\Users\Paweł\source\repos\Lizard\Lizard\obj\Debug\net6.0\Lizard.AssemblyInfo.cs
+C:\Users\Paweł\source\repos\Lizard\Lizard\obj\Debug\net6.0\Lizard.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\source\repos\Lizard\Lizard\obj\Debug\net6.0\Lizard.dll
+C:\Users\Paweł\source\repos\Lizard\Lizard\obj\Debug\net6.0\refint\Lizard.dll
+C:\Users\Paweł\source\repos\Lizard\Lizard\obj\Debug\net6.0\Lizard.pdb
+C:\Users\Paweł\source\repos\Lizard\Lizard\obj\Debug\net6.0\ref\Lizard.dll
